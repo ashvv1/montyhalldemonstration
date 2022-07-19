@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/montyhalldemonstration/static/css/main.0c970d8c.css",
-    "main.js": "/montyhalldemonstration/static/js/main.f522d451.js",
+    "main.css": "/montyhalldemonstration/static/css/main.3497f222.css",
+    "main.js": "/montyhalldemonstration/static/js/main.d0702be0.js",
     "static/js/787.788ca057.chunk.js": "/montyhalldemonstration/static/js/787.788ca057.chunk.js",
     "static/media/logo.svg": "/montyhalldemonstration/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/montyhalldemonstration/index.html",
-    "main.0c970d8c.css.map": "/montyhalldemonstration/static/css/main.0c970d8c.css.map",
-    "main.f522d451.js.map": "/montyhalldemonstration/static/js/main.f522d451.js.map",
+    "main.3497f222.css.map": "/montyhalldemonstration/static/css/main.3497f222.css.map",
+    "main.d0702be0.js.map": "/montyhalldemonstration/static/js/main.d0702be0.js.map",
     "787.788ca057.chunk.js.map": "/montyhalldemonstration/static/js/787.788ca057.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c970d8c.css",
-    "static/js/main.f522d451.js"
+    "static/css/main.3497f222.css",
+    "static/js/main.d0702be0.js"
   ]
 }
